@@ -41,9 +41,9 @@ function App() {
       </div>
       <div className={css.imgWrapper}>
         <img className={css.photo} src={fish} alt="" />
-        <img className={css.sunset} src={sunset} alt="" />
-        <img className={css.photo} src={eggs} alt="" />
         <img className={css.sunset} src={photo1} alt="" />
+        <img className={css.photo} src={eggs} alt="" />
+        <img className={css.sunset} src={sunset} alt="" />
         <img className={css.photo} src={photo3} alt="" />
         <img className={css.sunset} src={photo2} alt="" />
       </div>
